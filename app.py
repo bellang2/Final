@@ -9,5 +9,4 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 
-    #수정
-    # 수정 확인ㄴㅇㅎㅋㄴㅇㅎㅋㄴㅇㅀㅋㄴㅇㄿㄴ
+#진짜로
